@@ -1,6 +1,5 @@
 Detecting Sensitive Email Content NLP & A Machine Learning Approach
 
-eforus-overseer
 
 1. **Introduction & Problem Formulation**
 1. Domain Overview
@@ -22,7 +21,6 @@ Policy Group #1 – Internal Data Sharing Limitations and Geo-fencing:
 - Rule 1.1 – Legal related emails cannot be transferred between ECT and EES within the corporation .
 - Rule 1.2 – financial data cannot be transferred between the EU and USA.
 
-Iftach Danciger
 
 - Rule1.3 – no business or financial emails/documents can leave corporation perimeter. Policy Group #2 – Privacy and Sensitivity:
 - Rule 2.1 – emails containing finance information with PII or QID must not leave ECT company.
