@@ -153,3 +153,11 @@ In future work, we would continue to search the web for more knowledge on employ
 4
 
 [ref1]: Aspose.Words.46bf1cf1-30aa-48db-8a5a-b1f86a348137.001.png
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/enron-dlp-policy-enforcement/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
