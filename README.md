@@ -164,8 +164,8 @@ In future work, we would continue to search the web for more knowledge on employ
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Enron-DLP-Policy-Enforcement](assets/pixel-art.svg)
+![Pixel-art cover for Enron-DLP-Policy-Enforcement](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [Death Threat Email](https://commons.wikimedia.org/wiki/File:Death_Threat_Email.png) by Azuresky Voight, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: Wikimedia Commons.</sub>
