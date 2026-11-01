@@ -1,10 +1,11 @@
 {
-  "title": "Death Threat Email",
-  "author": "Azuresky Voight",
+  "title": "OpenMoji email envelope",
+  "author": "OpenMoji contributors",
   "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Death_Threat_Email.png",
-  "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Death_Threat_Email.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "commons_file": "File:Death Threat Email.png",
-  "query": "email computer security"
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_url": "https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/2709.png",
+  "download_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/2709.png",
+  "commons_file": "2709",
+  "query": "email computer security",
+  "collection": "OpenMoji"
 }

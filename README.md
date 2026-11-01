@@ -168,4 +168,4 @@ In future work, we would continue to search the web for more knowledge on employ
 
 ![Pixel-art cover for Enron-DLP-Policy-Enforcement](assets/project-cover.png)
 
-<sub>Pixel-art adaptation of [Death Threat Email](https://commons.wikimedia.org/wiki/File:Death_Threat_Email.png) by Azuresky Voight, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: Wikimedia Commons.</sub>
+<sub>Pixel-art adaptation of [OpenMoji email envelope](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/2709.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
